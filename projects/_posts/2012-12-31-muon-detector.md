@@ -10,7 +10,7 @@ when: 12/2012
 collaborators:
 task: 
 desc:
-images: [1.jpg, 3.jpg, 4.jpg, 5.jpg, 6.jpg, 7.jpg, 8.jpg, 9.jpg, 10.jpg, 11.jpg]
+images: [1.jpg, 3.jpg, 4.jpg, 5.jpg, 6.jpg, 7.jpg, 9.jpg, 10.jpg, 11.jpg]
 sourcecode: [[MuonDetector, https://github.com/mhenstell/MuonDetector]] 
 ---
 
