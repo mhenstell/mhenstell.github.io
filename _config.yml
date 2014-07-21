@@ -1,13 +1,16 @@
-permalink: none 
-markdown: rdiscount 
-paginate: 5
-pygments: true 
-auto: true 
-server: true 
-book: false
-videos: true 
-server_port: 4000
-baseurl: /
-url: http://localhost:4000 
-root: .
-destination: ./_site
+name: Max Henstell
+author: Herring Cove
+markdown: redcarpet
+pygments: true
+baseurl: /herring-cove
+description: Portfolio
+github: http://www.github.com/mhenstell
+twitter: http://www.twitter.com/mhenstell
+# facebook: http://www.facebook.com
+# linkedin: http://www.linkedin.com
+email: max@mmmaaa.xxx
+location: 42°2'16"N   70°12'47"W
+disqus: diqus-username
+
+##Make sure to edit the above fields, especially for disqus.
+
