@@ -10,7 +10,7 @@ when: 03/2011
 collaborators: 
 task: 
 desc: 
-images: 
+images: [1.jpg]
 sourcecode:
 context: 
 ---
