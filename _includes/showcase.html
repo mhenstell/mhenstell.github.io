@@ -1,7 +1,22 @@
     </div>
-    <style>
-    .showcase-wrapper {background-image: url("{{ site.baseurl }}/images/lens-med.jpg");}
-    </style>
+
+    <script language="JavaScript">
+    <!--
+    var r_text = new Array ();
+    r_text[0] = "lens-med.jpg";
+    r_text[1] = "dome.jpg";
+
+    var i = Math.floor(2*Math.random())
+
+
+    document.write('<style> \
+        .showcase-wrapper {background-image: url("{{ site.baseurl }}/images/' + r_text[i] + '");} \
+        </style>');
+
+    //-->
+    </script>
+
+    
     <div class="showcase-wrapper sticky">
     <!-- <div class="showcase-text">
         {% for post in site.posts limit: 1 %}
