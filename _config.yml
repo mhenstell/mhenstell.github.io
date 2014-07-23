@@ -1,7 +1,7 @@
 name: Max Henstell
 author: Max Henstell
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 baseurl: 
 description: Portfolio
 github: http://www.github.com/mhenstell

@@ -240,9 +240,19 @@ ul,ol
   font-weight:lighter
 }
 
+
+.projectSidebar
+{
+  float:left;
+  width: 50%;
+  margin-top:0.5em;
+}
+
+
 .projectSidebar ul
 {
   font-weight:normal;
+  list-style-type: none;
 }
 
 pre
@@ -401,7 +411,15 @@ pre
   font-size:35px;
   font-weight:700;
   color:#d90006;
-  padding-top:15px
+  padding-top:15px;
+ 
+}
+
+.article-header
+{
+  display: block;
+   float:left;
+  width: 50%;
 }
 
 .meta
@@ -423,11 +441,10 @@ img
   padding:10px 40px 0
 }
 
-.projectSidebar
+.postImages
 {
-  /*color: #000;*/
-  /*background-color: #000;*/
-
+  float:left;
+  clear:left;
 }
 
 .postImages img
@@ -439,8 +456,11 @@ img
 .post
 {
   padding-top:30px;
-  padding-bottom:30px
+  padding-bottom:30px;
+  /*float:left;*/
+  clear:left;
 }
+
 
 .user-social
 {
@@ -742,7 +762,41 @@ time
   color:#3a3a3a
 }
 
+@media (max-width:900px)
+{
+  .projectSidebar
+  {
+    float:none;
+    width: 100%;
+    clear:left;
+  }
+
+  .projectSidebar ul
+  {
+    font-weight:normal;
+    list-style-type: none;
+    display:inline;
+  }
+
+}
+
 @media (max-width:767px) {
+
+.projectSidebar
+{
+  float:none;
+  width: 100%;
+  clear:left;
+}
+
+.projectSidebar ul
+{
+  font-weight:normal;
+  list-style-type: none;
+  display:inline;
+}
+
+
 
 #wrapper {
   padding-left: 0;
@@ -800,6 +854,14 @@ time
   #article {
       padding: 0 10px 0 10px;
   }
+
+
+.projectSidebar
+{
+  float:none;
+  width: 100%;
+  clear:left;
+}
 
 
 

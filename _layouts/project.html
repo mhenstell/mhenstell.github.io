@@ -1,35 +1,36 @@
 {% include header.html %}
 
   <div id="article">
+   
+   <div class="article-header">
    <div class="article-title">{{ page.title }}</div>
-   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> {{ page.date | date_to_string}} &nbsp;&nbsp; {{ page.category | capitalize }}</small></p>
+   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> {{ page.date | date_to_string}} &nbsp;&nbsp; {{ page.category | capitalize }}</small></p></div>
 
-   <hr/>
+    <br/>
 
-   <div class="projectSidebar">
+     <div class="projectSidebar">
      <ul>
      
      {% for technology in page.technologies %}
-      {% if forloop.index == 1 %}<li>Technologies:{% endif %}
+      {% if forloop.index == 1 %}<li><i class="fa fa-cog"></i>&nbsp;Technologies:{% endif %}
      {{ technology }}{% if forloop.index != forloop.length %}, 
                      {% endif %}
       {% endfor %}
     </li>
     
       {% for collaborator in page.collaborators %}
-        {% if forloop.index == 1 %}<li>Collaborators:{% endif %}
+        {% if forloop.index == 1 %}<li><i class="fa fa-user"></i>&nbsp;Collaborators:{% endif %}
         {{ collaborator }}{% if forloop.index != forloop.length %},
                           {% endif %}
       {% endfor %}
     </li>
 
       {% for sourcecode in page.sourcecode %}
-        {% if forloop.index == 1 %}<li>Source Code:{% endif %}
+        {% if forloop.index == 1 %}<li><i class="fa fa-github-square"></i>&nbsp;Source Code:{% endif %}
         <a href="{{ sourcecode[1] }}">{{ sourcecode[0] }}</a>{% if forloop.index != forloop.length %},
         {% endif %}
       {% endfor %}
   </ul>
-
 
    </div>
 
@@ -46,10 +47,16 @@
     {% endfor %}
    </div>
 
+  <br/>
+  <br/>
+
    <div class="post">
+    <div class="postTest">
      {{ content }}
    </div>
+   </div>
  </div>
+
 
 
  <a href="https://twitter.com/share" class="twitter-share-button " data-size="small" data-count="none">Tweet</a>
