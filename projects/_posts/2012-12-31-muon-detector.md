@@ -7,7 +7,7 @@ img: muon
 title: Muon Detector
 technologies: [Geiger Tubes, Arduino] 
 when: 12/2012
-collaborators:
+collaborators: []
 task: 
 desc:
 images: [1.jpg, 3.jpg, 4.jpg, 5.jpg, 6.jpg, 7.jpg, 9.jpg, 10.jpg, 11.jpg]

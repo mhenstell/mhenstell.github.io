@@ -2,7 +2,38 @@
 
   <div id="article">
    <div class="article-title">{{ page.title }}</div>
-   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> {{ page.date | date_to_string}}</small></p> <hr/>
+   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> {{ page.date | date_to_string}} &nbsp;&nbsp; {{ page.category | capitalize }}</small></p>
+
+   <hr/>
+
+   <div class="projectSidebar">
+     <ul>
+     
+     {% for technology in page.technologies %}
+      {% if forloop.index == 1 %}<li>Technologies:{% endif %}
+     {{ technology }}{% if forloop.index != forloop.length %}, 
+                     {% endif %}
+      {% endfor %}
+    </li>
+    
+      {% for collaborator in page.collaborators %}
+        {% if forloop.index == 1 %}<li>Collaborators:{% endif %}
+        {{ collaborator }}{% if forloop.index != forloop.length %},
+                          {% endif %}
+      {% endfor %}
+    </li>
+
+      {% for sourcecode in page.sourcecode %}
+        {% if forloop.index == 1 %}<li>Source Code:{% endif %}
+        <a href="{{ sourcecode[1] }}">{{ sourcecode[0] }}</a>{% if forloop.index != forloop.length %},
+        {% endif %}
+      {% endfor %}
+  </ul>
+
+
+   </div>
+
+   <hr/>
 
    <div class="postImages">
     {% for image in page.images %}
