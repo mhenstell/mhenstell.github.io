@@ -2,7 +2,7 @@ name: Max Henstell
 author: Herring Cove
 markdown: redcarpet
 pygments: true
-baseurl: /
+baseurl: 
 description: Portfolio
 github: http://www.github.com/mhenstell
 twitter: http://www.twitter.com/mhenstell
