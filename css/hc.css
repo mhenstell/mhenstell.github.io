@@ -506,7 +506,15 @@ time
   z-index:-4;
   margin-top:-55px;
   margin-bottom:30px;
-  color:#fff
+  color:#fff;
+  
+}
+
+.titleBG
+{
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8),  rgba(0, 0, 0, 0));
+  /*background-color: #000;*/
+  padding-bottom: 50px;
 }
 
 .project-container h1
@@ -516,7 +524,8 @@ time
   font-weight:bolder;
   color:#fff;
   text-align:center;
-  padding-top:20px
+  padding-top:20px;
+
 }
 
 .project-container p
@@ -525,7 +534,10 @@ time
   font-family:"Helvetica Neue", helvetica, "Open Sans",sans-serif;
   color:#fff;
   text-align:center;
-  left-padding:20%
+  left-padding:20%;
+  margin: 0 auto;
+  display: block;
+
 }
 
 .project-box
