@@ -11,7 +11,7 @@ collaborators: [Ben Combee, Mark Tabry, Bill Ward, Charles Pax, NYC Resistor]
 task: 
 desc:
 images: [1.jpg, 2.jpg, 3.jpg]
-sourcecode: [[StabbyPhone, https://github.com/unwiredben/StabbyPhone]]
+sourcecode: [[StabbyPhone, "https://github.com/unwiredben/StabbyPhone"]]
 
 ---
 

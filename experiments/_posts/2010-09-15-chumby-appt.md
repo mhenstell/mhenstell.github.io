@@ -11,7 +11,7 @@ collaborators:
 task: 
 desc: 
 images: [1.jpg, 2.jpg, 3.jpg, 4.jpg]
-sourcecode: [[Github, https://github.com/mhenstell/Infocast]]
+sourcecode: [[Github, "https://github.com/mhenstell/Infocast"]]
 context: 
 ---
 

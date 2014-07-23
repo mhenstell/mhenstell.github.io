@@ -11,8 +11,8 @@ collaborators: [Dustin John, Phillip Kim]
 task: 
 desc:
 images: [1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg]
-sourcecode: [[DaftPunkTransmitter, https://github.com/hackrockcity/DaftPunkTransmitter],
-			[DaftPunkSimulator, https://github.com/hackrockcity/DaftPunkSimulator]
+sourcecode: [[DaftPunkTransmitter, "https://github.com/hackrockcity/DaftPunkTransmitter"],
+			[DaftPunkSimulator, "https://github.com/hackrockcity/DaftPunkSimulator"]
 		]
 context: 
 ---
