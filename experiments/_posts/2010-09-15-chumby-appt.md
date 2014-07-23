@@ -15,7 +15,11 @@ sourcecode: [[Github, "https://github.com/mhenstell/Infocast"]]
 context: 
 ---
 
-In 2010, Bestbuy's Insignia brand released the Infocast, a desktop Internet-powered display device based on the [Chumby](http://chumby.com/). The device featured an 8" touch screen, 2GB memory, Stereo speakers, two USB ports, WiFi, and an 800Mhz processor running Linux, for about $80 on sale.
+In 2010, Bestbuy's Insignia brand released the Infocast, a desktop Internet-powered display device based on the [Chumby](http://chumby.com/). 
+
+<!--break-->
+
+The device featured an 8" touch screen, 2GB memory, Stereo speakers, two USB ports, WiFi, and an 800Mhz processor running Linux, for about $80 on sale.
 
 This quick hack involved mounting an Arduino to a bracket on the backside of the device, plugging it in using a USB-Serial cable, and connecting the arduino to a cheap X10 transmitter I got off eBay. I made a really simple website interface to control my lights from my phone, and the instructions were sent through the Internet to my Infocast, which commanded the Arduino to control the lights.
 

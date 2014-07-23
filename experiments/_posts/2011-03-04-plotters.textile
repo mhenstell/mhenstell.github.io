@@ -18,9 +18,11 @@ sourcecode: [
 context: 
 ---
 
-The Pen Plotter PhotoBooth was a quick project I put together for the 2011 NYC Resistor Interactive Show. I wrote a Processing sketch that emulated the PhotoBooth application on Mac OS; it gave a countdown, flashed, and then took a picture of whoever had triggered it. The picture was converted to vectors, which were passed to an HP pen plotter. The picture was drawn out on the plotter (in the user's favorite color). Most of the pictures came out recognizable! Not bad for a few hours work.
+The Pen Plotter PhotoBooth was a quick project I put together for the 2011 NYC Resistor Interactive Show.
 
-!/images/{{page.img}}/big/max.jpg(Pen Plotter Result)!
+<!--break-->
+
+I wrote a Processing sketch that emulated the PhotoBooth application on Mac OS; it gave a countdown, flashed, and then took a picture of whoever had triggered it. The picture was converted to vectors, which were passed to an HP pen plotter. The picture was drawn out on the plotter (in the user's favorite color). Most of the pictures came out recognizable! Not bad for a few hours work.
 
 Video of the large plotter from the Interactive Show:
 

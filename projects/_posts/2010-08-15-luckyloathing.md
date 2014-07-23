@@ -16,6 +16,8 @@ sourcecode: [[Bat%20Country, "https://github.com/nycresistor/Grab-Bag/tree/maste
 
 In 2010 [NYC Resistor](nycresistor.com) was approached by a video production company who was organizing a contest between several American hackerspaces. The idea was for each hackerspace to form a small team who would complete a challenge: They had to repurpose an item and it had to be based on a movie. 
 
+<!--break-->
+
 We chose to build a BarBot (the third in Resistor history) using an old Japanese slot machine we found on CraigsList. We based the re-branded machine based on the movie [Fear and Loathing in Las Vegas](http://www.imdb.com/title/tt0120669/)
 
 Check out the two short NYC Resistor episodes below:
