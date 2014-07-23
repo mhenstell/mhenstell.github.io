@@ -1,5 +1,5 @@
-name: Max Henstell
-author: Herring Cove
+name: Max Henstell | Portfolio
+author: Max Henstell
 markdown: redcarpet
 pygments: true
 baseurl: 
@@ -10,7 +10,7 @@ twitter: http://www.twitter.com/mhenstell
 # linkedin: http://www.linkedin.com
 email: max@mmmaaa.xxx
 location: 42°2'16"N   70°12'47"W
-disqus: diqus-username
+# disqus: diqus-username
 permalink: pretty
 ##Make sure to edit the above fields, especially for disqus.
 
