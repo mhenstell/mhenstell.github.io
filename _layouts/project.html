@@ -1,9 +1,20 @@
----
-layout: article
----
+{% include header.html %}
+
   <div id="article">
    <div class="article-title">{{ page.title }}</div>
    <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> {{ page.date | date_to_string}}</small></p> <hr/>
+
+   <div class="postImages">
+    {% for image in page.images %}
+
+      <a href="{{ site.baseurl }}/images/{{ page.img }}/big/{{ image }}" data-lightbox="image-1" data-title="{{ page.title }} Image {{ forloop.index }}">
+
+      <img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/{{ image }}"/>
+
+    </a>
+    {% endfor %}
+   </div>
+
    <div class="post">
      {{ content }}
    </div>
@@ -23,7 +34,7 @@ layout: article
 
 </ul>
 
-  <div id="disqus_thread">
+ <!--  <div id="disqus_thread">
   <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
         var disqus_shortname = '{{ site.disqus }}'; // required: replace example with your forum shortname
@@ -41,3 +52,5 @@ layout: article
 
     </ul>
     </div>
+ -->
+ {% include footer.html %}
