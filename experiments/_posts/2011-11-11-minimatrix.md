@@ -16,7 +16,7 @@ sourcecode:
 context: 
 ---
 
-The MiniMatrix was a quick little project I threw together based on a two-color LED matrix. 
+The MiniMatrix was a quick little project I threw together based on a two-color LED matrix.
 
 <!--break-->
 

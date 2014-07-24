@@ -4,7 +4,7 @@
    
    <div class="article-header">
    <div class="article-title">{{ page.title }}</div>
-   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> {{ page.date | date_to_string}} &nbsp;&nbsp; {{ page.category | capitalize }}</small></p></div>
+   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> {{ page.when }} &nbsp;&nbsp; {{ page.category | capitalize }}</small></p></div>
 
     <br/>
 
@@ -30,6 +30,10 @@
         <a href="{{ sourcecode[1] }}">{{ sourcecode[0] }}</a>{% if forloop.index != forloop.length %},
         {% endif %}
       {% endfor %}
+
+      {% if page.sale != '' %}
+        <i class="fa fa-money"></i>&nbsp;<a href="{{ page.sale }}">For Sale Here</a>
+      {% endif %}
   </ul>
 
    </div>

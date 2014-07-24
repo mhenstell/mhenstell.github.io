@@ -15,7 +15,7 @@ sourcecode: [[Github, "https://github.com/mhenstell/Infocast"]]
 context: 
 ---
 
-In 2010, Bestbuy's Insignia brand released the Infocast, a desktop Internet-powered display device based on the [Chumby](http://chumby.com/). 
+In 2010, Bestbuy's Insignia brand released the Infocast, a desktop Internet-powered display device based on the [Chumby](http://chumby.com/).
 
 <!--break-->
 

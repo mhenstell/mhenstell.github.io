@@ -17,7 +17,7 @@ context:
 
 ![EL Sign Simulator](/images/{{page.img}}/big/1.png)
 
-I had an idea kicking around for a while for a large matrix screen made out of LED pixels. On top of pixels are clear plastic rods made out of [Endlighten](http://www.acrylite-shop.com/US/us/rod-636y4svddnd/acrylite-ff-endlighten-colorless-0n002-xl-b5jdxlddido~p.html) material. 
+I had an idea kicking around for a while for a large matrix screen made out of LED pixels. On top of pixels are clear plastic rods made out of [Endlighten](http://www.acrylite-shop.com/US/us/rod-636y4svddnd/acrylite-ff-endlighten-colorless-0n002-xl-b5jdxlddido~p.html) material.
 
 <!--break-->
 

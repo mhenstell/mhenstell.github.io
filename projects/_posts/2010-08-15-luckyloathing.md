@@ -14,7 +14,7 @@ images: [1.jpg, 2.jpg, 3.jpg, 4.jpg, 5.jpg]
 sourcecode: [[Bat%20Country, "https://github.com/nycresistor/Grab-Bag/tree/master/Bat%20Country"]]
 ---
 
-In 2010 [NYC Resistor](nycresistor.com) was approached by a video production company who was organizing a contest between several American hackerspaces. The idea was for each hackerspace to form a small team who would complete a challenge: They had to repurpose an item and it had to be based on a movie. 
+In 2010 [NYC Resistor](nycresistor.com) was approached by a video production company who was organizing a contest between several American hackerspaces. The idea was for each hackerspace to form a small team who would complete a challenge: They had to repurpose an item and it had to be based on a movie.
 
 <!--break-->
 

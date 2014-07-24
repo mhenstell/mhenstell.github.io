@@ -15,7 +15,7 @@ sourcecode: [[StabbyPhone, "https://github.com/unwiredben/StabbyPhone"]]
 
 ---
 
-In 2010, [NYC Resistor](nycresistor.com) sent a small delegation to the first TechCrush Disrupt 24 hour hackathon in New York. 
+In 2010, [NYC Resistor](nycresistor.com) sent a small delegation to the first TechCrush Disrupt 24 hour hackathon in New York.
 
 <!--break-->
 

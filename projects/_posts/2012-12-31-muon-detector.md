@@ -14,7 +14,7 @@ images: [1.jpg, 3.jpg, 4.jpg, 5.jpg, 6.jpg, 7.jpg, 9.jpg, 10.jpg, 11.jpg]
 sourcecode: [[MuonDetector, "https://github.com/mhenstell/MuonDetector"]] 
 ---
 
-This is a basic Muon detector that uses three Geiger-Müller tubes, three high-voltage supplies, and a Teensy (Arduino-compatible) microcontroller. 
+This is a basic Muon detector that uses three Geiger-Müller tubes, three high-voltage supplies, and a Teensy (Arduino-compatible) microcontroller.
 
 <!--break-->
 

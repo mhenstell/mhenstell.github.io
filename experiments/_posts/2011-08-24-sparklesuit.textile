@@ -16,7 +16,7 @@ sourcecode:
 context: 
 ---
 
-This is a quick project I threw together for Burning Man 2011. I spent all week at CCC Camp sewing a grid of high-power white LEDs into a suit jacket. 
+This is a quick project I threw together for Burning Man 2011. I spent all week at CCC Camp sewing a grid of high-power white LEDs into a suit jacket.
 
 <!--break-->
 
