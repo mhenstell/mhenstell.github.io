@@ -102,7 +102,16 @@ p
 .navbar a 
 {
   text-decoration: none;
-  border-bottom: 1px #b1b1b1 solid;
+  border-bottom: none;
+
+  color: #5e5e5e;
+}
+
+
+.navbar-brand a 
+{
+  text-decoration: none;
+  border-bottom: 1px #b1b1b1 dotted;
 }
 
 #sidebar-wrapper
