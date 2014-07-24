@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /minimatrix/index.html 
+permalink: /minimatrix
 root: "./.."
 category: experiment 
 type: "LED Display" 

@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /plotters/index.html 
+permalink: /plotters
 category: experiment 
 type: "Interactive Plotters" 
 img: plotters

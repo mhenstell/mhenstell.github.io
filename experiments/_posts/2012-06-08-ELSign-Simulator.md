@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /elsign/index.html 
+permalink: /elsign
 category: experiment 
 type: "Light Art Software"
 img: elsign

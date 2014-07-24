@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /chumby-hacking/index.html 
+permalink: /chumby-hacking
 category: experiment 
 type: "Wireless Utility" 
 img: chumby-hacking

@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /luckyloathing/index.html 
+permalink: /luckyloathing
 category: project 
 type: "Barbot" 
 img: luckyloathing

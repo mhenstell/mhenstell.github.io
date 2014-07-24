@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /proximity-unlock/index.html 
+permalink: /proximity-unlock
 category: experiment 
 type: "Wireless Utility" 
 img: proximity-unlock

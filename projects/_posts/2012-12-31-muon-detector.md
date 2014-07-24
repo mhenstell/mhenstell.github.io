@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /muon-detector/index.html 
+permalink: /muon-detector
 category: project 
 type: "Desktop Project" 
 img: muon

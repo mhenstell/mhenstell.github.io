@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /stabbyphone/index.html 
+permalink: /stabbyphone
 category: project 
 type: "Robotic Farce" 
 img: stabbyphone
