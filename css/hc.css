@@ -888,4 +888,74 @@ time
   a[href]:after {
     content: "";
   }
+
+  .projectSidebar
+  {
+    float:none;
+    width: 100%;
+    clear:left;
+  }
+
+  .projectSidebar ul
+  {
+    font-weight:normal;
+    list-style-type: none;
+    display:inline;
+  }
+
+  #article hr
+  {
+    margin-top:0px;
+  }
+
+  .article-title
+  {
+    padding-top:0px;
+    font-size: 25px;
+  }
+
+  .article-header
+  {
+    width:100%;
+  }
+
+  .container
+  {
+    width:100%;
+  }
+
+  .navbar 
+  {
+    display: inherit;
+    background-color: #ededed;
+    margin-top: -40px;
+    margin-bottom: -10px;
+  }
+
+  .navbar-brand
+  {
+    font-size:25px;
+    margin-top: 15px;
+    margin-left: 5%;
+  }
+
+  .navbar-toggle
+  {
+    display:none;
+  }
+
+  #twitter-widget-0
+  {
+    display:none;
+  }
+
+  .pager
+  {
+    display:none;
+  }
+
+  .credit
+  {
+    margin-top:0px;
+  }
 }
