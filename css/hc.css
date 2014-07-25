@@ -883,3 +883,9 @@ time
 }
 
 }
+
+@media print {
+  a[href]:after {
+    content: "";
+  }
+}
