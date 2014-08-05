@@ -10,7 +10,7 @@ collaborators: [Jimmy An, Ronald Huveneers, Phil Worthington, Nick Vermeer, Raph
 when: 2013-2014
 task: 
 desc:
-images: [1.jpg, 2.png, 3.png, 4.png, 5.png, 6.png]
+images: [1.jpg, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png]
 sourcecode: []
 sale: "http://store.livestream.com"
 ---
