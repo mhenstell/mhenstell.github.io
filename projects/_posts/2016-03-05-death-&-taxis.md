@@ -23,6 +23,24 @@ Death & Taxis is a small Art Car (Mutant Vehicle) that I'm in the process of mak
 More technical details of the project will be posted soon. I will update below as I make progress on the DnT.
 
 --------------------------------
+##### Update 3/20/16 - Jackshaft Brackets
+
+<a href="{{ site.baseurl }}/images/{{ page.img }}/big/brackets.jpg" data-lightbox="image-1" data-title="Jackshaft Brackets">
+<img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/brackets.jpg"/></a>
+
+Spent some time today cutting and installing some bracketing for the gear reduction jackshaft. The plan is to mount the DC motor at the very back, connected to the jackshaft to reduce the RPMs then connect to the drive axle under the jackshaft. The jackshaft, bearings, motor and controller should arrive by next weekend.
+
+--------------------------------
+##### Update 3/17/16 - First Wood Piece
+
+<a href="{{ site.baseurl }}/images/{{ page.img }}/big/top1.jpg" data-lightbox="image-1" data-title="First Wood Piece">
+<img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/top1.jpg"/></a>
+<a href="{{ site.baseurl }}/images/{{ page.img }}/big/top2.jpg" data-lightbox="image-1" data-title="First Wood Piece">
+<img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/top2.jpg"/></a>
+
+Used the ShopBot to cut the first wooden segment - the bottom panel - out of 3/4" Advantec OSB. It first perfectly. The car was very stable with two people jumping up and down on it, even without all the bolts tightened down.
+
+--------------------------------
 ##### Update 3/5/16 - Up on Wheels
 
 <a href="{{ site.baseurl }}/images/{{ page.img }}/big/wheels.jpg" data-lightbox="image-1" data-title="Up on Wheels">
