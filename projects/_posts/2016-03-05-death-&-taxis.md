@@ -27,7 +27,7 @@ More technical details of the project will be posted soon. I will update below a
 
 <a href="{{ site.baseurl }}/images/{{ page.img }}/big/platform1.jpg" data-lightbox="image-1" data-title="Platform">
 <img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/platform1.jpg"/></a>
-<a href="{{ site.baseurl }}/images/{{ page.img }}/big/platform2.jpg" data-lightbox="image-2" data-title="Drivetrain">
+<a href="{{ site.baseurl }}/images/{{ page.img }}/big/platform2.jpg" data-lightbox="image-1" data-title="Drivetrain">
 <img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/platform2.jpg"/></a>
 
 It's starting to come together - I got most of the wood platform installed today (not pictured - hand-bent and welded 1/8" brackets underneath), and I tightened down the drivetrain enough to mount the chains and test it out. I made the first real trip under power today - just 10 feet across the room, but it worked. Once I get the brake, trottle, steering, and safety cutoffs installed in the next week, I'll hopefully be able to make the first trip around the block.
@@ -37,7 +37,7 @@ It's starting to come together - I got most of the wood platform installed today
 
 <a href="{{ site.baseurl }}/images/{{ page.img }}/big/steering1.jpg" data-lightbox="image-1" data-title="Steering">
 <img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/steering1.jpg"/></a>
-<a href="{{ site.baseurl }}/images/{{ page.img }}/big/steering2.jpg" data-lightbox="image-2" data-title="Steering">
+<a href="{{ site.baseurl }}/images/{{ page.img }}/big/steering2.jpg" data-lightbox="image-1" data-title="Steering">
 <img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/steering2.jpg"/></a>
 
 Spent a few hours today rigging up the steering. I'm using a threaded rod and a quickly-drilled pitman arm. It's pretty janky and I'm ordered a real go-kart steering shaft to replace it, but it works for now. D&T went on its first human-powered drive today (just around the room, but still).
@@ -47,7 +47,7 @@ Spent a few hours today rigging up the steering. I'm using a threaded rod and a 
 
 <a href="{{ site.baseurl }}/images/{{ page.img }}/big/motor.jpg" data-lightbox="image-1" data-title="Motor Mounted">
 <img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/motor.jpg"/></a>
-<a href="{{ site.baseurl }}/images/{{ page.img }}/big/controller.jpg" data-lightbox="image-2" data-title="Motor Controller">
+<a href="{{ site.baseurl }}/images/{{ page.img }}/big/controller.jpg" data-lightbox="image-1" data-title="Motor Controller">
 <img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/controller.jpg"/></a>
 
 Built a crazy-heavy mount for the brushless motor, which took about two hours to cut on the shopbot (from 1/4 steel - not reccomended). It's heavier than the motor. In retrospect, I could have just milled it out of aluminium and saved myself a lot of time and weight, but oh well. I got the controller hooked up for testing as well, and after some fiddling, it works!
@@ -57,7 +57,7 @@ Built a crazy-heavy mount for the brushless motor, which took about two hours to
 
 <a href="{{ site.baseurl }}/images/{{ page.img }}/big/brake.jpg" data-lightbox="image-1" data-title="Brake Installed">
 <img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/brake.jpg"/></a>
-<a href="{{ site.baseurl }}/images/{{ page.img }}/big/drive.jpg" data-lightbox="image-2" data-title="Drive Train">
+<a href="{{ site.baseurl }}/images/{{ page.img }}/big/drive.jpg" data-lightbox="image-1" data-title="Drive Train">
 <img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/drive.jpg"/></a>
 
 Got the rear axle brake installed today, as well as the sprockets on the jackshaft. Ready to start mounting the motor!
@@ -75,7 +75,7 @@ Spent some time today cutting and installing some bracketing for the gear reduct
 
 <a href="{{ site.baseurl }}/images/{{ page.img }}/big/top1.jpg" data-lightbox="image-1" data-title="First Wood Piece">
 <img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/top1.jpg"/></a>
-<a href="{{ site.baseurl }}/images/{{ page.img }}/big/top2.jpg" data-lightbox="image-2" data-title="First Wood Piece">
+<a href="{{ site.baseurl }}/images/{{ page.img }}/big/top2.jpg" data-lightbox="image-1" data-title="First Wood Piece">
 <img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/top2.jpg"/></a>
 
 Used the ShopBot to cut the first wooden segment - the bottom panel - out of 3/4" Advantec OSB. It first perfectly. The car was very stable with two people jumping up and down on it, even without all the bolts tightened down.
