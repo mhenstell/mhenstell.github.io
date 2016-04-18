@@ -18,7 +18,7 @@ Death & Taxis is a coffin on wheels, decked out to look like a New York City tax
 
 <!--break-->
 
-Death & Taxis is a small Art Car (Mutant Vehicle) that I'm in the process of making for exhibition at regional festivals, culminating at Burning Man 2016. DnT is being built by-hand, from scratch, with a welded steel chassis and a CNC-milled, upholstered wooden coffin (more like a couch) for carrying a driver and up to three passengers. I spent approximately three months designing and modeling DnT before beginning construction in January, and I intend to have the vehicle (or at least the first iteration) done and throughly tested by the end of May 2016. At the present time, I hope to exhibit DnT at [Figment NYC](http://newyork.figmentproject.org/), [Disorient Country Club](http://wiki.disorient.info/index.php?title=Country_Club), and hopefully [Burning Man 2016](http://burningman.org/).
+Death & Taxis is a small Art Car (Mutant Vehicle) that I'm in the process of making for exhibition at regional festivals, culminating at Burning Man 2016. DnT is being built by-hand, from scratch, with a welded steel chassis and a CNC-milled, upholstered wooden coffin (more like a couch) for carrying a driver and up to three passengers. I spent approximately three months designing and modeling DnT before beginning construction in January, and I intend to have the vehicle (or at least the first iteration) done and throughly tested by the end of May 2016. I hope to exhibit DnT at [Disorient Country Club](http://wiki.disorient.info/index.php?title=Country_Club) on Memorial Day weekend. DnT was accepted by the [Burning Man](http://burningman.org/) DMV for 2016, so keep an eye out for me on the playa this year.
 
 More technical details of the project will be posted soon. I will update below as I make progress on the DnT.
 
@@ -40,7 +40,7 @@ It's starting to come together - I got most of the wood platform installed today
 <a href="{{ site.baseurl }}/images/{{ page.img }}/big/steering2.jpg" data-lightbox="image-1" data-title="Steering">
 <img src="{{ site.baseurl }}/images/{{ page.img }}/thumb/steering2.jpg"/></a>
 
-Spent a few hours today rigging up the steering. I'm using a threaded rod and a quickly-drilled pitman arm. It's pretty janky and I'm ordered a real go-kart steering shaft to replace it, but it works for now. D&T went on its first human-powered drive today (just around the room, but still).
+Spent a few hours today rigging up the steering. I'm using a threaded rod and a quickly-drilled pitman arm. It's pretty janky and I'm ordered a real go-kart steering shaft to replace it, but it works for now. DnT went on its first human-powered drive today (just around the room, but still).
 
 --------------------------------
 ##### Update 4/2/16 - Motor and Controller
