@@ -1,0 +1,9 @@
+# Skills
+- skill: Hardware Design and Implementation
+  description: Circuit design, prototyping, PCB capture and layout (EAGLE), DFM, manufacturing, testing, firmware design and implementation (C/Python)
+
+- skill: Software Engineering / Dev Ops
+  description: Backend design and Implementation (Python, Java, C, C++), Terraform, Docker, Vagrant, AWS, git, Linux
+
+- skill: Design and Fabrication
+  description: 2D design (Illustrator/Corel Draw/Inkscape), 3D design and modeling (Solidworks), 3D printing, laser cutting (Epilogue), CNC Milling (Shopbot/Sherline), MIG Welding

@@ -1,0 +1,59 @@
+# Jobs
+# Carmera
+- top_level: true
+  company: Carmera
+  position: Lead Sensor Engineer
+  duration: Oct, 2015 &mdash; Present
+  summary: Second employee at a small 3D mapping startup. Utilized a wide range of skills to translate "ground truth" from multiple sensors to usable 3D models.
+           <ul class="resume-item-list">
+            <li>Built a "Google Maps"-like mobile 3D mapping vehicle from the ground up</li>
+            <li>Wrote data collection and processing software to aid in 3D pointcloud generation</li>
+            <li>Wrote and maintained cloud-based 2D/3D data collection and processing pipeline and other backend systems</li>
+            <li>Designed, built, and installed custom PCBs and plastic enclosures for vehicle-mounted 2D "swarm" sensors
+           </ul>
+
+- top_level: true
+  company: Makerbot Industries, LLC
+  position: Software Engineer
+  duration:  Nov, 2014 &mdash; Oct, 2015
+  summary: Primarily worked on Makerbot Desktop software, used for basic 3D CAM and job spooling for Makerbot printers.
+           Worked on low-level integration with all Makerbot Replicator printers.
+
+- top_level: false
+  company: Livestream.com
+  position: Hardware Engineer
+  duration:   Jun, 2013  &mdash; Oct, 2014
+  summary: Designed hardware and firmware for the Livestream Surface Core and Surface Track control surfaces. 
+           These products utilized LEDs, motorized faders, LCD screens, OLED screens, and sound I/O to provide
+           an all-in-one video mixing controller for Livestream software. Utilized a wide range of skills including
+           electrical and 3D design, DFM, EMI testing, fabrication, and microcontroller programming.
+
+- top_level: false
+  company: Blinkiverse
+  position: Co-Founder
+  duration: 2012 &mdash; 2013
+  summary: Co-founded Blinkiverse with the intent to design and manufacture LED devices for interactive theater installations and maker projects.
+           Accepted into a China-based startup accelerator, and spent several months living and working in Shenzhen, designing
+           and prototyping ideas. The final product, Blinkytape, was successfully funded on Kickstarter.
+
+- top_level: false
+  company: Blip Networks
+  position: Software Engineer
+  duration: 2012 &mdash; 2013
+  summary: Designed and maintained backend systems in Python, Java, and Lua, using nginx and redis on AWS.
+           Design and implemented a sucessful service for tracking thousands of user engagement signals per second
+           on an inexpensive, scalable cluster.
+
+- top_level: false
+  company: New York University
+  position: IT Specialist
+  duration: 2010 &mdash; 2012
+  summary: Wrote Java and Python code in support of Blackboard and the open-source Sakai OAE learning management systems.
+           Built and maintained Jenkins systems for continuous integration of Sakai code development.
+
+- top_level: false
+  company: The Orchard
+  position: Video Engineer
+  duration: 2009 &mdash; 2010
+  summary: Handled and automated the processing of thousands of music videos and movies for delivery to major online storefronts
+           and content delivery networks. Implemented a multi-Terabyte Storage Area Network for rapid video processing.
