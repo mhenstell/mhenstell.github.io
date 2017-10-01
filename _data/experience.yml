@@ -2,6 +2,7 @@
 # Carmera
 - top_level: true
   company: Carmera
+  url: "http://carmera.com"
   position: Lead Sensor Engineer
   duration: Oct, 2015 &mdash; Present
   summary: Second employee at a small 3D mapping startup. Utilized a wide range of skills to translate "ground truth" from multiple sensors to usable 3D models.
@@ -14,6 +15,7 @@
 
 - top_level: true
   company: Makerbot Industries, LLC
+  url: "http://makerbot.com"
   position: Software Engineer
   duration:  Nov, 2014 &mdash; Oct, 2015
   summary: Primarily worked on Makerbot Desktop software, used for basic 3D CAM and job spooling for Makerbot printers.
@@ -21,9 +23,10 @@
 
 - top_level: false
   company: Livestream.com
+  url: "http://livestream.com"
   position: Hardware Engineer
   duration:   Jun, 2013  &mdash; Oct, 2014
-  summary: Designed hardware and firmware for the Livestream Surface Core and Surface Track control surfaces. 
+  summary: Designed hardware and firmware for the <a href="/control-surface">Livestream Surface Core and Surface Track control surfaces.</a>
            These products utilized LEDs, motorized faders, LCD screens, OLED screens, and sound I/O to provide
            an all-in-one video mixing controller for Livestream software. Utilized a wide range of skills including
            electrical and 3D design, DFM, EMI testing, fabrication, and microcontroller programming.

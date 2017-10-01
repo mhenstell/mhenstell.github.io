@@ -5,7 +5,7 @@
 - project: Death & Taxis (art car)
   role: Creator
   duration: 2015 &mdash; 2016
-  # url: "#"
+  url: "/death-and-taxis"
   description: Death & Taxis was a seven foot long, coffin-shaped art car painted to look like a New York City taxi. 
                I designed it in Solidworks, then cut and welded it together from scratch. It utilized a 14hp electrical motor and steer-by-wire controls, along with
                a 200 Ah battery bank with onboard generator for charging. The car was disassembled and flat-packed for shipping from Brooklyn to Nevada
@@ -14,7 +14,7 @@
 - project: Domestar
   role: Co-Creator
   duration: 2012 &mdash; Present
-  # url: "#"
+  url: "/domestar"
   description: One of the early large-scale Arduino-based LED sculptures. Domestar was a 16-foot (now 30-foot) custom-fabricated PVC dome covered in 
                6,400 individually-addressable RGB LEDs, controlled and mapped via custom Processing software. I did electrical and firmware design
                and implementation, as well as structure fabrication and Processing/C++ work.
