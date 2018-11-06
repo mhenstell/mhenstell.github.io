@@ -1,5 +1,11 @@
 # Jobs
-# Carmera
+
+- top_level: true
+  company: Self-Employed
+  position: Contractor
+  duration: Dec, 2017 &mdash; Present
+  summary: Freelance contracting for several companies in the tech industry, primarily in hardware design and firmware but also extending to backend software and infrastructure.
+
 - top_level: true
   company: Carmera
   url: "http://carmera.com"
