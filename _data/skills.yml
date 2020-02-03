@@ -1,6 +1,6 @@
 # Skills
 - skill: Software Engineering / Dev Ops
-  description: Backend design and Implementation (Python, Java, C, C++), Terraform, Docker, Vagrant, AWS, git, Linux, bash, redis, OpenVPN Infrastructure planning and implementation, process automation, continuous integration, best practices implementation, API planning/implementation/integration, documentation, training
+  description: Backend design and Implementation (Python, Java, C, C++), Terraform, Docker, Vagrant, AWS, git, Linux, bash, redis, OpenVPN, Infrastructure planning and implementation, process automation, continuous integration, best practices implementation, API planning/implementation/integration, documentation, training
 
 - skill: Hardware Design and Implementation
   description: Circuit design, prototyping, PCB capture and layout (EAGLE), DFM, manufacturing, testing, firmware design and implementation (C/Python)
