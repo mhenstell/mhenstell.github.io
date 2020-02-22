@@ -3,14 +3,14 @@ layout: project
 permalink: /space-scooter
 category: project 
 type: "Mutant Vehicle" 
-img: dnt
+img: scooter
 title: Space Scooter
 technologies: [Metal Fabrication, Wood Fabrication, Electric Drivetrain, LED Lighting, Software] 
 collaborators: []
 when: 2020
 task: 
 desc:
-images: []
+images: [SpaceScooter1.jpg, SpaceScooter2.jpg, SpaceScooter3.jpg, SpaceScooter-Night1.jpg, SpaceScooter-Night2.jpg]
 sourcecode: []
 ---
 
