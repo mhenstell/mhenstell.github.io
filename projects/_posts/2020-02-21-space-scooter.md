@@ -16,6 +16,4 @@ sourcecode: []
 
 Space Scooter is a small, single-person vehicle based on a whimsical illustration from a 1970's NASA pamphlet.
 
-<!--break-->
-
-Placeholder
+More information and build progress log coming soon.
