@@ -2,13 +2,14 @@
 
 - top_level: true
   company: Lager Data
+  url: "https://www.lagerdata.com"
   position: Head of Hardware Engineering
-  duration: Aug, 2020 &mdash; Present
-  summary: Responsible for all aspects of hardware engineering - including electrical, mechanical, and firmware - for a startup focused on modernizing embedded development tools.
+  duration: Aug, 2020 &mdash; Sept 2022
+  summary: Responsible for all aspects of hardware engineering - including electrical, mechanical, and firmware - for a startup focused on modernizing embedded development with cloud-based tools. Also resposible for backend API design, as well as user-facing CLI tools and Python libraries.
 
 - top_level: true
   company: Consulting Engineer
-  position: Dec, 2017 &mdash; Aug, 2020
+  position: Dec, 2017 &mdash; Present
   duration:
   summary: I consult for companies on a wide range of challenges, offering skills in backend and embedded programming, infrastructure planning and training, hardware and mechanical design, and general assistance in paying-down technical debt and integrating industry best-practices.
 
